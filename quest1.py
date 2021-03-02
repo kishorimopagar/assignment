@@ -39,7 +39,7 @@ def fun5(S):
 
 
 if __name__ == '__main__':
-    S = "Kishori24"
+    S = "Kishori"
 
     flagalphanum = fun1(S)
     alphabetical = fun2(S)
@@ -51,4 +51,6 @@ if __name__ == '__main__':
     print(digits)
     print(lowercase)
     print(uppercase)
+
+
     
